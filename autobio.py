@@ -71,7 +71,7 @@ if st.session_state.section == "Autobiography":
 
     with col1:
         st.markdown("""
-        <div style="background-color: #B3E7D0; border: 1px solid #B3E7D0; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+        <div style="background-color: #EDFAE4; border: 1px solid #EDFAE4; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
             <details>
                 <summary style="font-weight: bold; cursor: pointer;">👋 Hello!</summary>
                 <p>Hi! I'm Kim Vargas, currently a college student majoring in BS in Information Technology. Most of my days are filled with coding, coding, and a bit of coding!</p>
@@ -80,7 +80,7 @@ if st.session_state.section == "Autobiography":
         """, unsafe_allow_html=True)
 
         st.markdown("""
-        <div style="background-color: #82DFC6; border: 1px solid #82DFC6; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+        <div style="background-color: #DCF5E8; border: 1px solid #DCF5E8; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
             <details>
                 <summary style="font-weight: bold; cursor: pointer;">👨‍👩‍👧‍👧 My Family</summary>
                 <p>- <strong>Mother:</strong> Anna Lissa Bulfa, who is an OFW in Malaysia.</p>
@@ -91,7 +91,7 @@ if st.session_state.section == "Autobiography":
         """, unsafe_allow_html=True)
 
         st.markdown("""
-        <div style="background-color: #82DFC6; border: 1px solid #82DFC6; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+        <div style="background-color: #BDEBE0; border: 1px solid #BDEBE0; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
             <details>
                 <summary style="font-weight: bold; cursor: pointer;">🎨 Favorite Color</summary>
                 <p>My favorite colors are the different shades of green, which I find to be relaxing and fresh.</p>
@@ -100,7 +100,7 @@ if st.session_state.section == "Autobiography":
         """, unsafe_allow_html=True)
 
         st.markdown("""
-        <div style="background-color: #B3E7D0; border: 1px solid #B3E7D0; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+        <div style="background-color: #A2DBDB; border: 1px solid #A2DBDB; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
             <details>
                 <summary style="font-weight: bold; cursor: pointer;">🚀 Future Goals</summary>
                 <p>Looking ahead, I'm excited to have my frontal lobe develop and make more serious decisions in life. My time in college is all about exploring new interests and making the most out of every opportunity.</p>
@@ -110,7 +110,7 @@ if st.session_state.section == "Autobiography":
 
     with col2:
         st.markdown("""
-        <div style="background-color: #B3E7D0; border: 1px solid #B3E7D0; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+        <div style="background-color: #EDFAE4; border: 1px solid #EDFAE4; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
             <details>
                 <summary style="font-weight: bold; cursor: pointer;">🔮 My Zodiac Sign</summary>
                 <p>I am a Libra, which means I always strive for harmony in life.</p>
@@ -119,7 +119,7 @@ if st.session_state.section == "Autobiography":
         """, unsafe_allow_html=True)
 
         st.markdown("""
-        <div style="background-color: #82DFC6; border: 1px solid #82DFC6; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+        <div style="background-color: #DCF5E8; border: 1px solid #DCF5E8; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
             <details>
                 <summary style="font-weight: bold; cursor: pointer;">🎨 Hobbies</summary>
                 <p>In my free time, I love to play online games (DOTA2, HOK). Some of my favorite pastimes include reading fictional books, painting, and bed-rotting.</p>
@@ -128,7 +128,7 @@ if st.session_state.section == "Autobiography":
         """, unsafe_allow_html=True)
 
         st.markdown("""
-        <div style="background-color: #82DFC6; border: 1px solid #82DFC6; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+        <div style="background-color: #BDEBE0; border: 1px solid #BDEBE0; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
             <details>
                 <summary style="font-weight: bold; cursor: pointer;">🍎 Favorite Fruits</summary>
                 <p>I absolutely adore fruits! Some of my favorites are Oranges, Watermelons, Grapes, Kiwis, Rambutans, Mangosteens, and more. One of my dreams is to travel the world so that I can taste every fruit that exists.</p>
@@ -137,7 +137,7 @@ if st.session_state.section == "Autobiography":
         """, unsafe_allow_html=True)
 
         st.markdown("""
-        <div style="background-color: #B3E7D0; border: 1px solid #B3E7D0; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+        <div style="background-color: #A2DBDB; border: 1px solid #A2DBDB; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
             <details>
                 <summary style="font-weight: bold; cursor: pointer;">📚 My Academic Journey</summary>
                 <p>My college journey has been a whirlwind. In 2019 I originally enrolled as an Architecture student but then the Covid-19 pandemic hit and affected my mental health. I just accepted that I had lost my passion and hope it'll come back in the future.</p>
